@@ -17,3 +17,5 @@ com mais de 60 anos para cada um menor de 60.
 ### Screenshot:
 
 ![alt text](https://i.imgur.com/s04X1qL.jpg)
+
+#### Feito por Kléber Albino Moreira e Renan Feliciano Rocha
