@@ -1,4 +1,5 @@
-﻿using System;
+//Feito por Kléber Albino Moreira e Renan Feliciano Rocha
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -140,6 +141,7 @@ namespace Modelo
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+        //Feito por Kléber Albino Moreira e Renan Feliciano Rocha
             if(txtNome.Text == "")
             {
                 MessageBox.Show("Preencha o campo nome.");
@@ -192,6 +194,7 @@ namespace Modelo
 
         private void btnRemove_Click(object sender, EventArgs e)
         {
+        //Feito por Kléber Albino Moreira e Renan Feliciano Rocha
             cont++;
 
             if (filaPref.Count == 0 || cont == 4)
